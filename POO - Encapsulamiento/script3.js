@@ -15,3 +15,5 @@ const miContador = Contador();
 miContador.Aumentar();
 miContador.Aumentar();
 console.log(miContador.ObtenerCuenta());
+
+// console.log(miContador.Cuenta)
